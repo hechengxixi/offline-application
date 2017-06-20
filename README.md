@@ -1,2 +1,2 @@
 # offline-application
-baseed on HTML5  Application Cache and indexedDB
+baseed on HTML5  Application Cache
